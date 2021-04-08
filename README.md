@@ -1,7 +1,7 @@
 # Profile Based Retrieval
 Building a recommendation system based on ratings given by the users
 
-The dataset used for this project come from MovieLens and is avaiable [here](http://movielens.org) and the scope of this project is, at the end, to merge knowledge of Natural Language Process, statistics and programming to come up with a systems that correctly recommends users with movies based on their profile. 
+The dataset used for this project come from MovieLens and is avaiable [here](https://grouplens.org/datasets/movielens/) and the scope of this project is, at the end, to merge knowledge of Natural Language Process, statistics and programming to come up with a systems that correctly recommends users with movies based on their profile. 
 The project is carried out in Python language with the help of Pandas, Scikit-learn, NLTK and Numpy and the code is available in the following 
 
 # The github repo contains the following:
